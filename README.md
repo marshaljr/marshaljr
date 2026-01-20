@@ -12,7 +12,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  /*![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)*/
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   
 - 🌐 &nbsp;
@@ -28,11 +28,8 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -52,7 +49,7 @@
 <p align="center">
 <a href="https://www.marshal.com.np/"><img alt="Website" src="https://img.shields.io/badge/Website-www.marshal.com.np-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/marshal-ram/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marshal%20Ram-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/react_next/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-react_next-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/react_next/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-react_next_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:marshaljr615@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marshaljr615@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
