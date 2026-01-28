@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering and Mathematics at University of Bedfordshire.
+- 🎓 &nbsp; Studying Software Engineering at University of Bedfordshire.
 - 💼 &nbsp; Not working yet.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Web Development and testing tools in Linux as hobbies/side hustles.
