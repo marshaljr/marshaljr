@@ -18,9 +18,7 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-
 <br/>
-
 <strong>Web Development:</strong>
 <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -29,17 +27,13 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
 <br/>
-
 <strong>Databases:</strong>
 <br/>
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
 <br/>
-
 <strong>Tools & Platforms:</strong>
 <br/>
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
@@ -63,6 +57,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marshaljr&show_icons=true&theme=github_dark&count_private=true" />
 </a>
 
+<h3>📊 &nbsp;Activity Graph</h3>
 <!-- Real-time contribution graph -->
 <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=marshaljr&theme=github&hide_border=true" />
 
@@ -88,5 +83,5 @@
 ---
 
 <p align="center">
-⭐️ From <a href="https://github.com/marshaljr">Marshal</a>
+⭐️ From <a href="https://marshal.com.np">Marshal</a>
 </p>
