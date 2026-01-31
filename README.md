@@ -62,6 +62,11 @@
 <!-- Real-time contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=marshaljr&theme=github&hide_border=true" />
 
+<a href="https://github.com/marshaljr">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marshaljr&theme=github_dark" />
+</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marshaljr&theme=github" />
 ---
 
 <h3>🤝🏻 &nbsp;Connect with Me</h3>
