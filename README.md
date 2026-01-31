@@ -19,7 +19,7 @@
 ![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-<br/><br/>
+<br/>
 
 <strong>Web Development:</strong>
 <br/>
@@ -30,7 +30,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-<br/><br/>
+<br/>
 
 <strong>Databases:</strong>
 <br/>
@@ -38,7 +38,7 @@
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-<br/><br/>
+<br/>
 
 <strong>Tools & Platforms:</strong>
 <br/>
@@ -55,9 +55,8 @@
 
 <h3>📊 &nbsp;GitHub Stats</h3>
 
-<!-- Real-time stats using Anurag Hazra's github-readme-stats -->
 <a href="https://github.com/marshaljr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marshaljr&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marshaljr&theme=github_dark" />
 </a>
 
 <!-- Real-time contribution graph -->
