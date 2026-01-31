@@ -57,9 +57,9 @@
 
 <!-- Real-time stats using Anurag Hazra's github-readme-stats -->
 <a href="https://github.com/marshaljr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marshaljr&show_icons=true&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/graph?username=marshaljr&theme=github_dark&count_private=true" />
 </a>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marshaljr&theme=github" />
 <!-- Real-time contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=marshaljr&theme=github&hide_border=true" />
 
