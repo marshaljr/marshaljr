@@ -15,7 +15,6 @@
 <strong>Languages & Frameworks:</strong>
 
 <br/>
-
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=java&logoColor=007396)
@@ -26,7 +25,6 @@
 <strong>Web Development:</strong>
 
 <br/>
-
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -39,7 +37,6 @@
 <strong>Databases:</strong>
 
 <br/>
-
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -49,7 +46,6 @@
 <strong>Tools & Platforms:</strong>
 
 <br/>
-
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
