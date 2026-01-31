@@ -9,7 +9,6 @@
 - ✍️ &nbsp; Pursuing Web Development and testing tools in Linux as hobbies/side hustles.
 
 ---
-
 <h3>🛠 &nbsp;Tech Stack</h3>
 
 <strong>Languages & Frameworks:</strong>
@@ -20,7 +19,6 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 <br/>
-
 <strong>Web Development:</strong>
 <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -31,7 +29,6 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 <br/>
-
 <strong>Databases:</strong>
 <br/>
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -39,7 +36,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 <br/>
-
 <strong>Tools & Platforms:</strong>
 <br/>
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
@@ -52,16 +48,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ---
-
-<h3>📊 &nbsp;GitHub Stats</h3>
-
-<!-- Real-time stats using Anurag Hazra's github-readme-stats -->
-<a href="https://github.com/marshaljr">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marshaljr&show_icons=true&theme=github_dark&count_private=true" />
-</a>
-<!-- Real-time contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marshaljr&theme=github&hide_border=true" />
-
 <a href="https://github.com/marshaljr">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marshaljr&theme=github_dark" />
 </a>
@@ -85,7 +71,6 @@
   <img alt="Email" src="https://img.shields.io/badge/Email-marshaljr615@gmail.com-blue?style=flat-square&logo=gmail">
 </a>
 </p>
-
 ---
 
 <p align="center">
