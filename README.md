@@ -57,11 +57,14 @@
 
 <a href="https://github.com/marshaljr">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marshaljr&theme=github_dark" />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marshaljr&show_icons=true&theme=github_dark&count_private=true" /> -->
+</a>
+<!-- New live stats card (updates every few minutes) -->
+<a href="https://github.com/marshaljr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marshaljr&show_icons=true&theme=github_dark&count_private=true" />
 </a>
 
 <!-- Real-time contribution graph -->
-<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=marshaljr&theme=github&hide_border=true" />
+<img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=marshaljr&theme=github&hide_border=true" />
 
 ---
 
