@@ -60,7 +60,7 @@
 </a>
 <!-- New live stats card (updates every few minutes) -->
 <a href="https://github.com/marshaljr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marshaljr&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=marshaljr&show_icons=true&theme=github_dark&count_private=true" />
 </a>
 
 <h3>📊 &nbsp;Activity Graph</h3>
