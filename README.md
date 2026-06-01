@@ -89,5 +89,5 @@
 ---
 
 <p align="center">
-⭐️ From <a href="https://github.com/marshaljr">Marshal</a>
+❤️ From <a href="https://github.com/marshaljr">Marshal</a>
 </p>
